@@ -1,0 +1,23 @@
+.banner{
+    height: 85vh;
+    background: linear-gradient(
+        rgba(63, 63, 63, 0.8), 
+        rgb(63, 63, 63, 0.8)
+        ), 
+        url(../../data/banner.jpg) no-repeat center top;
+    background-position: cover;
+    background-blend-mode: multiply;
+}
+.container-banner{
+    padding-top: 100px;
+}
+.textEffect{
+    text-align: left;
+    padding-left: 0;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #98392A;
+}
+.typed-cursor, .typed-cursor--blink{
+    color: #DC3545;
+}

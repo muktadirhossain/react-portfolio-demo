@@ -1,0 +1,13 @@
+.footer-area{
+    /* min-height: 450px; */
+    background-color: #5A4A47;
+    padding-top: 50px;
+    
+    color: #FBEF9E;
+}
+.footer-copyRight {
+    padding-top: 50px;
+}
+.footer-copyRight a{
+    color: #FBEF9E;
+}

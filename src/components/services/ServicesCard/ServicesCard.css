@@ -1,0 +1,33 @@
+.serviceCard{
+    margin-bottom: 20px;
+}
+.serviceCard h3{
+    color: rgb(255, 255, 255);
+    font-family: Roboto Serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.serviceCard p{
+    font-size: 16;
+    font-weight: 300;
+    font-family: Roboto;
+    color: #fff;
+    padding-bottom: 25px;
+}
+.servicesLogo{
+    height: 75px;
+    width: 75px;
+    margin: 20px auto;
+    
+    border-radius: 100%;
+    background-color: rgb(92, 52, 52);
+}
+.card-bodyy{
+    margin: 5px;
+    background-color: #5A4A47;
+    padding: 20px 15px;
+    border-radius: 15px;
+    box-shadow: 10px 5px 15px grey;
+}

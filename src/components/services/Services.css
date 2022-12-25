@@ -1,0 +1,12 @@
+.services{
+    padding-top: 80px ;
+    padding-bottom: 80px ;
+    background-color: #d6d6d6;
+}
+.services h2{
+    color: #98392A;
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-clamp: 26px;
+
+}
